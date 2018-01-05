@@ -6,4 +6,4 @@ The findings show a consistency between critical POS outlets in vulnerable neigh
 
 The project team also consolidated all the analyses into a web tool for the ORR, which provides an interactive visualization of population vulnerability scores and POS criticality scores. Using this, the ORR will be able to easily identify key neighborhoods and storefronts as the basis for targeted assistance programs. Moving forward, the ORR aims to build off the team's existing work and incorporate it as a tool for several of their initiatives.
 
-The app was built using Sqlite3, Express.js, Angular4.js, Node.js.
+The app was built using JavaEE and Maven. Deploys to a war file.
